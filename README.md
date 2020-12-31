@@ -1,7 +1,7 @@
 # Background
 April is a c# chatbot aimed to respond to atleast 80% of all english slang
 and give you a humanlike, curated response. April doesnt save any user data
-and relied soley on keywords that the user sends to make a response.
+and relies soley on keywords that the user sends to make a response.
 
 For example, if you ask the bot  ¨How are you doing¨, then it will respond
 with a list of given responses to make the interaction seem more human.
