@@ -15,7 +15,7 @@ using System.Xml.Serialization;
       Console.WriteLine(LoadingText);
       Console.WriteLine("A Simple C# Chatbot");
       Console.WriteLine("");
-      Console.WriteLine("Please not that this bot will not be");
+      Console.WriteLine("Please note that this bot will not be");
       Console.WriteLine("able to understand everything so keep");
       Console.WriteLine("it simple!");
       Console.WriteLine("");
